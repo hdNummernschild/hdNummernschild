@@ -4,5 +4,9 @@ title: Bestellen
 permalink: /bestellen/
 ---
 
-Nummernschildhalter bestellen.
-Hier bist du richtig!
+<h1>Kennzeichenhalter bestellen</h1>
+
+Preis incl. Versand in Deutschland: 35€
+
+
+Bezahlen:
