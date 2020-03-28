@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Kawasaki W800"
+date:   2020-03-28 09:21:35 +0100
+categories: bikeexamples
+---
+
+Hier kann man den HDNummernschild-Halter an einer Kawasaki W800 sehen.
+
+![KawasakiW800](/assets/kawasaki_w800_1.jpg)
