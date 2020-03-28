@@ -11,4 +11,4 @@ Hier kann man den HDNummernschild-Halter an einer Kawasaki W800 sehen.
 
 {{base.url}}
 
-![KawasakiW800]({{site.url}}/assets/images/kawasakiw8001.jpg)
+![KawasakiW800]({{ BASE_PATH }}/assets/images/kawasakiw8001.jpg)
